@@ -1,4 +1,5 @@
 from accessify import private
+
 class Car:
 
     def __init__(self, model, year, manufacturer, capacity, color, price):
