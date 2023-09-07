@@ -125,21 +125,21 @@ while True:
         choice = int(input('Выберите необходимое действие: '))
         if choice == 0:
             break
-        if choice == 1:
+        elif choice == 1:
             my_car.inp()
-        if choice == 2:
+        elif choice == 2:
             my_car.view_all()
-        if choice == 3:
+        elif choice == 3:
             my_car.view_model()
-        if choice == 4:
+        elif choice == 4:
             my_car.view_year()
-        if choice == 5:
+        elif choice == 5:
             my_car.view_manufacturer()
-        if choice == 6:
+        elif choice == 6:
             my_car.view_capacity()
-        if choice == 7:
+        elif choice == 7:
             my_car.view_color()
-        if choice == 8:
+        elif choice == 8:
             my_car.view_price()
         else:
             print('Число должно быть от 0 до 8')
