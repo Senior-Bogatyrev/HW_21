@@ -95,5 +95,7 @@
 
 
 
-[Python]: https://pypi-camo.global.ssl.fastly.net/233dfe54c23e0214e7101212ee41d8538f5b4884/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646a616e676f2e737667
+[Python]: [https://pypi-camo.global.ssl.fastly.net/233dfe54c23e0214e7101212ee41d8538f5b4884/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646a616e676f2e737667](https://img.shields.io/badge/Python-3.11.2-blue?style=for-the-badge&logo=python&logoColor=yellow
+)https://img.shields.io/badge/Python-3.11.2-blue?style=for-the-badge&logo=python&logoColor=yellow
+
 [Python-url]: https://www.python.org/
